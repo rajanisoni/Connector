@@ -1,0 +1,138 @@
+
+
+/* ...........SELECTORS............ */
+html,
+body {
+    margin: 0;
+    padding: 0;
+    background: hsl(251deg 18% 19%);
+    font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+    color: white;
+    padding: 34px;
+    line-height: 1.5;
+    font-size: 33px;
+    letter-spacing: 1;
+}
+
+
+button {
+    background: none;
+    border: none;
+    font-size: 19px;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+p {
+    padding: 0px 25px;
+    margin-top: 20px;
+}
+
+img {
+    border-radius: 46px;
+    border: 5px solid hsl(251deg 100% 86%);
+    height: 76px;
+    margin: 0px 42%;
+    margin-bottom: 5px;
+}
+
+a {
+    margin-right: 22px;
+    font-size: 19px;
+    color: white;
+    padding-left: 27px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}
+/* ....................IDS................ */
+#name {
+    display: none;
+
+}
+
+#searchInput {
+    padding: 10px;
+    font-size: 24px;
+    width: 45%;
+    margin-left: 50px;
+    border-radius: 5px;
+    border: none;
+}
+
+
+#container {
+    position: absolute;
+    top: 15%;
+    left: 33%;
+    width: 38%;
+    border-radius: 5px;
+    height: 40%;
+    border: 5px solid hsl(54deg 91% 83%);
+    background-color: hsl(251deg 100% 86%);
+}
+
+
+#search {
+    margin: 0px -5px;
+    position: relative;
+    top: -10%;
+    padding: 20px;
+    border-radius: 5px;
+    border: 5px solid hsl(54deg 91% 83%);
+    background-color: hsl(23deg 76% 85%);
+    letter-spacing: 1;
+}
+
+#search label {
+    font-size: 30px;
+    font-weight: bold;
+    padding: 6px;
+    padding-left: 20px;
+}
+
+#results {
+    position: relative;
+    top: -10%;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    left: 0%;
+    display: block;
+
+}
+
+#results .name {
+    margin-top: 3px;
+    padding: 5px 0;
+    text-align: center;
+    background-color: hsl(23deg 76% 85%);
+    border: 6px solid hsl(54deg 91% 83%);
+    color: black;
+    border-radius: 5px;
+    font-size: 19px;
+    display: none;
+
+}
+/* ............CLASSES............. */
+.info-box {
+    display: none;
+}
+
+.person {
+    display: contents;
+}
+
+.person:hover {
+    cursor: pointer;
+    text-decoration: underline;
+}

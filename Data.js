@@ -62,7 +62,7 @@
 
     {
         name: "Gary Simon ",
-        img: "images/Gary.png ",
+        img: "images/Gary.jpg ",
         linkedin: "https://www.linkedin.com/in/dreamache/ ",
         twitter: " https://twitter.com/designcoursecom",
         github: "https://www.youtube.com/c/DesignCourse/featured "

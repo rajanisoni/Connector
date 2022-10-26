@@ -12,7 +12,7 @@ Feel free to contribute/ make suggestion /review this project.☺
      <img src="/Screenshot 2.jpg" width="400px"/> 
 </div>
 
-## project link  
+## Project link  
 
 - [https://delicate-pastelito-2c3a5c.netlify.app/]
 

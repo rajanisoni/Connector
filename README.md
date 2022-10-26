@@ -1,4 +1,4 @@
-## Connector
+# Connector
 
 This Project is a javascript search-bar created in  one of modules of The Essential Javascript module in Scrimba's Frontend Career Path.
 Which i have modified and added some new features
